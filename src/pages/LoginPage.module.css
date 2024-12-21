@@ -1,0 +1,29 @@
+.loginPage {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #00b4db, #0083b0);
+    padding: 20px;
+  }
+  
+  .loginContainer {
+    background: white;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+  }
+  
+  .loginContainer h1 {
+    color: #00b4db;
+    margin-bottom: 10px;
+    font-size: 2rem;
+  }
+  
+  .loginContainer p {
+    color: #666;
+    margin-bottom: 30px;
+  }
